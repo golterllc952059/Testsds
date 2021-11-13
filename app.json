@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/golterllc952059/Testsds",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
